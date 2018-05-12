@@ -1,0 +1,48 @@
+_repo: Ancient-and-Modern-Celebrated-Freethinkers--13-Reprinted-From-an-English-Work-Entitled--Half-__30200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Collins, Anthony, pseud.
+    gutenberg_agent_id: '34436'
+    url: http://www.gutenberg.org/2009/agents/34436
+  - agent_name: Bradlaugh, Charles
+    aliases:
+    - Bradlaugh, C. (Charles)
+    - Iconoclast
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+  - agent_name: Watts, John
+    gutenberg_agent_id: '34431'
+    url: http://www.gutenberg.org/2009/agents/34431
+description: Cover; Ancient and Modern Celebrated Freethinkers; Copyright; CONTENTS;
+  THOMAS HOBBES; LORD BOLINGBROKE; CONDORCET; SPINOZA; ANTHONY COLLINS; DES CARTES;
+  M. DE VOLTAIRE; JOHN TOLAND; COMPTE DE VOLNEY; CHARLES BLOUNT; PERCY BYSSHE SHELLEY;
+  CLAUD ARIAN HELVETIUS; FRANCES W. D'ARUSMONT; EPICURUS; ZENO, THE STOIC; MATTHEW
+  TINDAL; DAVID HUME; DR. THOMAS BURNET; THOMAS PAINE; BAPTISTE DE MIRABAUD; BARON
+  D'HOLBACH; ROBERT TAYLOR; JOSEPH BARKER.
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalists -- Biography'
+- !lcc 'BL'
+tableOfContents: Thomas Hobbes -- Lord Bolingbroke -- Condorcet -- Spinoza -- Anthony
+  Collins -- Des Cartes -- M. de Voltaire -- John Toland -- Compte de Volney -- Charles
+  Blount -- Percy Byssche Shelley -- Claude Arian Helvetius -- Frances W. D'Arusmont
+  -- Epicurus -- Zeno, the Stoic -- Matthew Tindal -- David Hume -- Dr. Thomas Burnet
+  -- Thomas Paine -- Baptiste de Mirabaud -- Baron d'Holbach -- Robert Taylor -- Joseph
+  Barker.
+title: "Ancient and Modern Celebrated Freethinkers\r\nReprinted From an English Work,\
+  \ Entitled \"Half-Hours With The Freethinkers.\""
+url: http://www.gutenberg.org/ebooks/30200
